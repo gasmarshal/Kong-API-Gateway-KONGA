@@ -10,6 +10,10 @@ Docker and Docker Compose must be installed. see documentation
 [here](https://docs.docker.com/compose/install/)
 
 ## Usage/Examples
+
+```bash
+  change POSTGRES_PASSWORD with your unique password for DB PSQL
+```
  
 ```bash
   cd Kong-API-Gateway-KONGA
