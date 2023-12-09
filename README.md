@@ -12,7 +12,7 @@ Docker and Docker Compose must be installed. see documentation
 ## Usage/Examples
  
 ```bash
-  cd Kong_API
+  cd Kong-API-Gateway-KONGA
   docker-compose up -d
 ```
 
